@@ -1,6 +1,6 @@
 
 
-![](../media/open-MLA-banner.jpg)
+![openMLA logo banner](https://raw.githubusercontent.com/openMLA/.github/main/media/open-MLA-banner.jpg)
 
 This organisation contains efforts towards the creation of open-hardware **Maskless Lithography Aligners**. These systems are able to produce high resolution UV light patterns for use in [photolithography](https://en.wikipedia.org/wiki/Photolithography). The aim of such hardware is to bring microfabrication into the hands of more people. While not necessarily targeting the home user, the designed systems may find application in makerspaces, small scale production or in research.
 
