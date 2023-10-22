@@ -17,6 +17,12 @@ Initial efforts are in [**Project Medjed 👁️**](https://github.com/openMLA/M
 
  **Project Nabu 🐉** will target the 500nm resolution target. As this order of magnitude higher resolution requires significantly more advanced hardware, this will need a lot of development time.
 
+## 📖 On lithography systems
+
+There are some topics that are broader than a single system/repository. Writings on such topics are contained in [the openMLA wiki ➡](https://github.com/openMLA/.github/wiki). These are concepts that are quite general on the topic of photolithography systems.
+
+They may be of interest if you are interested in photolithography or are interested in designing your own system.
+
 ## 💸 Commercial systems
 
 If you are looking for a MLA system, and have the funding to get a commercial system? Some of the commercial systems below may be of interest to you. Some of the inspiration for the development of the openMLA projects comes from these systems.
